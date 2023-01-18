@@ -1,0 +1,126 @@
+html{
+    overflow-x: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color:#009b4e;
+    height: 100px;
+}
+header a,svg:hover{
+    color: black;
+}
+header svg{
+    color: white;
+    margin: 15px;
+}
+
+#nav{
+    color: white;
+}
+header{
+    color: white;
+}
+/* middle section */
+.row1{
+    background-size: cover;
+    
+}
+.row1 div{
+ height: 400px;
+}
+.row1 div{
+    background-color: #00b13f;
+}
+#textbox{
+    color: white;
+    font-weight: bolder;
+    padding-left: 50px;
+    padding-top: 70px;
+    
+}
+#textbox h1{
+ font-style: italic;
+ font-weight: bolder;
+}
+#learnMore{
+    margin-top: 20px;
+    background-color: white;
+    color: #00b13f;
+    border: none;
+   width: 140px;
+   height: 50px;
+   font-size: 17px;
+   font-weight: bolder;
+   font-style: italic;
+}
+.row2{
+    text-align: center;
+    padding-top: 50px;
+
+}
+.row2-text{
+    padding-left: 350px;
+}
+.textbox2 h1{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 900; 
+}
+.textbox2 p{
+    color: black;
+}
+.row2-video div {
+    width: 58%;
+    position: relative;
+    left: 22%;
+
+}
+.row2-video div h1,p{
+    text-align: left;
+}
+.row3 div {
+   text-align: center;
+}
+/* FOOTER */
+.foo1{
+    background-color:#009b4e;
+
+}
+.icons a{
+    color: white;
+}
+.inner1{
+    font-style: italic;
+    font-weight: 1000;
+    color: white;
+
+}
+.outer2 p{
+    font-style: italic;
+    font-weight: 1000;
+    color: white;
+
+}
+.row4 p{
+    text-align: center;
+    font-style: italic;
+    font-weight: 1000;
+    color: white;
+}
+#end{
+    width: 900px;
+    background-color: aqua;
+    position: relative;
+    left: 180px;
+    font-size: small;
+}
+#last-row{
+    font-style: italic;
+    color: white;
+    font-weight: 1000;
+
+}
